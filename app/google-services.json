@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542753444157",
+    "firebase_url": "https://egitimdatabase-ac168.firebaseio.com",
+    "project_id": "egitimdatabase-ac168",
+    "storage_bucket": "egitimdatabase-ac168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542753444157:android:c82aa42ad8304c08f6b554",
+        "android_client_info": {
+          "package_name": "com.tamersarioglu.not"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542753444157-mqe5e6h3mviopk1nd9d2mn8glqikpdb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY219e3Dv9v-DypfKHifjU_Brfjs5W3aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542753444157-mqe5e6h3mviopk1nd9d2mn8glqikpdb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
